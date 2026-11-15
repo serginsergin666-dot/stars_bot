@@ -1,1 +1,5 @@
-aiogram==3.13.1
+aiogram==3.13.0
+pydantic==2.9.2
+aiohttp==3.10.5
+certifi==2024.7.4
+
